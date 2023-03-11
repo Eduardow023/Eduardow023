@@ -1,4 +1,4 @@
-### Olá! Eu sou o Tharlon
+### Olá! Eu sou o Tharlon :)
 
 - 🔭 Atualmente não estou trabalhando.
 - 🌱 Estudando Javascript
