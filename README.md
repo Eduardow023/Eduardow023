@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Tharlon :)
 
-- 🔭 Atualmente não estou trabalhando.
-- 🌱 Estudando Javascript
+- 🔭 Atualmente não estou trabalhando, sou estudante de Ciência da Computação.
+- 🌱 Estudando C++
 - 📫 Contate-me no email: tharlonedu@gmail.com
 - 😄 Pronouns:  ele/dele
 
